@@ -8,7 +8,7 @@ This repository documents my labs, troubleshooting scenarios, scripts, and secur
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 I'm currently focusing on building practical skills in:
 
